@@ -1,3 +1,2 @@
-
-#!b8n/bash
+#!bin/bash
 mkdir -m 751 my_dir
